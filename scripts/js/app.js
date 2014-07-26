@@ -13,7 +13,7 @@ app.load = function(section){
 };
 
 $(document).ready(function(){
-	app.load('about');
+	app.load('rA');
 });
 
 app.trackClicks = function(){
