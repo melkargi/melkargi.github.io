@@ -44,7 +44,7 @@ More Info: http://www.architextinc.com/25619/our-people
 
 # Demo
 
-
+Check it out [here](http://melkargi.github.io/Type%202%20diabetes%20-%20Medium%20Reading%20Level%20Styled%20Placeholder.html)
 
 
 # Contact
