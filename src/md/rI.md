@@ -1,4 +1,4 @@
-<h2 class='cntr'>rA</h2>
+<h2 class='cntr'>RI</h2>
 
 
 
@@ -22,7 +22,7 @@ More info [here](http://www.linkedin.com/pub/eugenia-canas/28/985/452)
 
 
 4) Knowledge Translation Consultant: Dr. Anita Kothari, B.Sc., M.H.Sc.; University of Toronto. Ph.D.; McMaster University.
-More Info [here](http://uwo.ca/fhs/shs/people/faculty/kothari_a.html)
+More info [here](http://uwo.ca/fhs/shs/people/faculty/kothari_a.html)
 
 
 5) Health Information Consultant: Dr. Nadine Wathen, B.A.; Dalhoise University; M.A., Ph.D; Western University
